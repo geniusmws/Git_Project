@@ -19,6 +19,7 @@ public class GitTest01 {
         System.out.println("push");
         System.out.println("push");
         System.out.println("push");
-        System.out.println("pulltest");        
+        System.out.println("pulltest"); 
+        System.out.println("github modify"); 
     }
 }
